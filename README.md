@@ -1,6 +1,6 @@
 # Hans I. Alvarez Fuentes
 
-📞 +56 9 5410 5124 | ✉️ [alvarez.hans@gmail.com](mailto:alvarez.hans@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/hans-alvarez-fuentes/)
+🌐 [LinkedIn](https://www.linkedin.com/in/hans-alvarez-fuentes/)
 
 ## Resumen Profesional
 
@@ -8,7 +8,16 @@ Ingeniero en informática con más de 24 años de experiencia en la dirección y
 
 ## Experiencia Laboral
 
-### 2001 - Presente | Jefe de Proyectos | Creasys S.A.
+### 2021 - Presente | Developer Full Stack Senior | Banco Ripley.
+
+*Responsable del mantenimiento y evolución de los sistemas de Transferencias Electrónicas de Fondos (TEF).*
+- **Logros Clave:**
+  - Gestioné la estabilidad y evolución de las plataformas de transferencias, asegurando la alta disponibilidad y seguridad de las transacciones financieras críticas.
+  - Optimicé los procesos de transferencia de fondos, alineando las soluciones técnicas con los estándares operativos y de eficiencia del banco.
+- **Tecnologías:** Java, Golang, Oracle, PL/SQL, Cobol, Unix, Linux, Python, AWS, GCP.
+ 
+
+### 2001 - 2021 | Jefe de Proyectos | Creasys S.A.
 
 *Líder en el desarrollo de soluciones financieras para instituciones bancarias y privadas.*
 - **Logros Clave:**
@@ -38,15 +47,19 @@ Ingeniero en informática con más de 24 años de experiencia en la dirección y
 ## Habilidades Técnicas
 
 ### Lenguajes de Programación
-* **Back-End:** Java, Golang, PL/SQL, Cobol
+* **Back-End:** Java, Golang, PL/SQL, Cobol, Python.
 * **.NET:** Visual Basic, ASP.NET
 * **Web:** HTML, JavaScript
-* **Otros:** Fortran, DBASE III, FoxPro, QBasic, Objective-C
+* **Otros:** Fortran, DBASE III, FoxPro, QBasic, Objective-C.
 
 ### Bases de Datos
 * **Oracle:** Experto
 * **SQL Server:** Experto
+* **Postgres:** Experto
 * **MongoDB:** Medio
+
+### Cloud e Infraestructura
+* AWS, GCP, Unix, Linux
 
 ### Frameworks y Tecnologías
 * .NET, Control-M, Seagate Crystal Reports
@@ -55,7 +68,7 @@ Ingeniero en informática con más de 24 años de experiencia en la dirección y
 * Windows, Unix, Linux
 
 ### Herramientas
-* Office (Word, Excel, PowerPoint), PowerBuilder
+* Git, Jira, PowerBuilder
 
 ### Conocimiento Bancario/Financiero
 * Procesos de administración de cartera, transferencias electrónicas, análisis de inversiones, manejo de productos financieros.
