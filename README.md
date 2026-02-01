@@ -1,6 +1,7 @@
 # Hans I. Alvarez Fuentes
 
 🌐 [LinkedIn](https://www.linkedin.com/in/hans-alvarez-fuentes/)
+📧 [tu-email@ejemplo.com](mailto:alvarez.hans@gmail.com)
 
 ## Resumen Profesional
 
@@ -13,7 +14,7 @@ Ingeniero en informática con más de 24 años de experiencia en la dirección y
 *Responsable del mantenimiento y evolución de los sistemas de Transferencias Electrónicas de Fondos (TEF).*
 - **Logros Clave:**
   - Gestioné la estabilidad y evolución de las plataformas de transferencias, asegurando la alta disponibilidad y seguridad de las transacciones financieras críticas.
-  - Optimicé los procesos de transferencia de fondos, alineando las soluciones técnicas con los estándares operativos y de eficiencia del banco.
+  - Optimicé los procesos de transferencia de fondos, alineando las soluciones técnicas con los estándares operativos y de eficiencia del banco y la CMF.
 - **Tecnologías:** Java, Golang, Oracle, PL/SQL, Cobol, Unix, Linux, Python, AWS, GCP.
  
 
@@ -21,12 +22,17 @@ Ingeniero en informática con más de 24 años de experiencia en la dirección y
 
 *Líder en el desarrollo de soluciones financieras para instituciones bancarias y privadas.*
 - **Logros Clave:**
-  - Lideré la implementación de sistemas GPI+ y GPI para clientes como Corpbanca y BCI, mejorando la gestión financiera.
-  - Optimicé el portal MetLife, logrando un 20% de mejora en eficiencia y reducción de tiempos de respuesta en un 15%.
-  - Mejoré los procesos de Transferencia Electrónica de Fondos en el Banco Ripley, logrando una reducción de costos operativos del 10%.
-  - Aumenté la precisión de transacciones en un 10% y minimicé errores de conciliación en un 5% en el sistema de Cargos y Abonos Masivos.
-  - Aseguré un tiempo de actividad del 99.9% en los sistemas de Pago y Recargas de Cuentas en línea.
-- **Tecnologías:** .NET, SQL Server, Oracle, Java, Control-M.
+  - **Ingeniería de Core Bancario y Medios de Pago (Banco Ripley):**
+    - Arquitectura y desarrollo integral de módulos críticos del Core Bancario (TEF, PEC, PAC, PAT) utilizando Java para servicios API y un ecosistema Batch robusto en PL/SQL, Cobol, Python y Bash orquestado por Control-M.
+    - Implementación de arquitectura orientada a mensajes con IBM MQ para desacoplar procesos Online y Batch, garantizando alta disponibilidad (99.9%) y tolerancia a fallos.
+  - **Desarrollo de Sistemas Financieros (GPI/GPI+):**
+    - Diseño y construcción del sistema GPI (Gestión de Portafolios) bajo arquitectura Cliente-Servidor .NET con persistencia multi-motor (Oracle/SQL Server), optimizando el Back Office financiero.
+    - Ejecución técnica de migraciones complejas de datos (ETL) desde sistemas legados, asegurando integridad y consistencia financiera.
+    - Integración de sistemas en clientes corporativos (Corpbanca, BCI), adaptando la solución a arquitecturas empresariales heterogéneas.
+  - **Optimización de Rendimiento (MetLife):**
+    - Refactorización crítica en plataforma InterSystems, eliminando redundancia estructural y código obsoleto, logrando una mejora del 20% en eficiencia operativa y reducción del 15% en latencia.
+  
+ - **Tecnologías:** .NET, Java, PL/SQL, Cobol, Python, Bash, Control-M, IBM MQ, InterSystems, Oracle, SQL Server.
 
 ### 2000 - 2001 | Ingeniero de Software | In Motion Ingenieros Ltda.
 
