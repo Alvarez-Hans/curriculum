@@ -1,7 +1,7 @@
 # Hans I. Alvarez Fuentes
 
 🌐 [LinkedIn](https://www.linkedin.com/in/hans-alvarez-fuentes/)
-📧 [tu-email@ejemplo.com](mailto:alvarez.hans@gmail.com)
+📧 [Email](mailto:alvarez.hans@gmail.com)
 
 ## Resumen Profesional
 
@@ -84,6 +84,7 @@ Ingeniero en informática con más de 24 años de experiencia en la dirección y
 
 ## Educación
 * Iplacex: Ingeniería en Informática, mención en Desarrollo de Software Empresarial.
+* *El detalle completo de cursos y certificaciones se encuentra disponible en mi perfil de [LinkedIn](https://www.linkedin.com/in/hans-alvarez-fuentes/).*
 
 ## Idiomas
 * Inglés: Nivel Medio / Avanzado (técnico)
